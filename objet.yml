@@ -281,4 +281,4 @@ components:
         createdDatetime:
           type: string
           format: date
-          example: "2001-01-10"
+          example: "2010-07-02"
